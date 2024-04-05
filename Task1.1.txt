@@ -1,0 +1,7 @@
+1. The users of the system should be able to search through contacts.
+2. The system should allow users to manage contacts(add, update and delete).
+3. The system should allow users to merge duplicate contacts.
+4. The system should keep track of contacts with the following details: first name, lastname, company, job title,
+   phone numbers, email addresses)
+5. For the phone numbers and email address attributes, the system should allow users to specify how each phone number
+   or email address is related to the contact(Home, Work, Mobile etc).
